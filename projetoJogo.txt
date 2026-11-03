@@ -1,0 +1,418 @@
+﻿História do jogo
+Ato I - Epílogo:
+* introdução ao contexto de Tróia;
+* introdução a família do personagem;
+* introdução ao exército de Tróia(tutorial gameplay);
+* guerra de Tróia “morte” do protagonista;
+* introdução a Ker, ao Olimpo;
+* introdução a Nêmesis, Apollo e Hemera(tutorial gameplay);
+* introdução a Éris.
+
+
+
+
+
+
+
+
+
+
+o protagonista teve uma vida antes (pode ser uma cutscene, é um aspecto para ter a desculpa pro jogador selecionar o nome e o gênero do personagem), morreu em batalha, foi ressuscitado por uma divindade Ker[a], herdou sua bênção. Ker deseja se tornar uma deusa mais justa, escolhendo o personagem para livrá-lá do submundo, matando sua mãe Nix.
+
+
+
+
+
+
+
+
+
+
+ÁREA TÉCNICA/ REFERÊNCIA 
+Ajudantes:
+Deusa Nêmesis[b] - Juíza
+Deusa Hemera[c]- Bondoso
+Deusa Ker - Neutro
+Deus Apolo- Maldoso
+Chefes:
+Deusa Éris[d]
+Deus Geras[e]
+Deusa Lissa[f]
+As Deusas Hespérides[g]
+Deus Tânato[h]
+Deus Hipnos[i]
+Deusa Nix[j]
+Side Quest:
+Os deuses oniros
+Deus Momo [k]
+
+
+ viver e escolher lado
+decisões mudam o alinhamento
+specs do jogo
+mapa de geração aleatório
+eventos aleatórias entre o mundo para transformar seu alinhamento e sua força
+sistema de "" em que aumenta gradual e a cada aumento ele ter esse "baque" em que ele é voltado para a quest P
+
+
+Zoryel - Resumo
+Zoryel
+  
+
+Características Físicas/resumo previsto:
+Foi um homem ou mulher de estatura mediana, com cabelos castanhos, pretos ou loiros — uma característica gerada aleatoriamente, como se o destino brincasse com os traços de sua aparência(gerar essa característica aleatoriamente). Nasceu nos arredores de Tróia. O local, marcado por séculos de guerras contra a Grécia, moldou desde cedo o espírito do protagonista.
+  
+
+Sua infância foi breve, quase inexistente. Os dias de brincadeira foram substituídos por noites de fuga, escondido entre ruínas e florestas, enquanto seu povo era perseguido por crenças, origens ou alianças que ele ainda não compreendia. Mesmo assim, nos raros momentos de paz, aprendeu a observar o mundo com olhos atentos — o céu, os sons da natureza, os gestos de afeto entre os sobreviventes. Esses fragmentos de ternura foram tudo o que teve antes de ser lançado ao caos da guerra.
+À medida que crescia, não teve escolha: foi empurrado para os campos de batalha como tantos outros jovens de sua terra. Treinado com pressa, aprendeu a manejar a espada com surpreendente habilidade. Sua proficiência em combate era notável — ágil, preciso, quase instintivo. Mas, por dentro, nunca se interessou pela guerra. Lutava por obrigação, não por glória. A cada vida que tirava, sentia o peso da existência se tornar mais sombrio.
+Certo dia, durante uma expedição em território hostil, Zoryel e seu grupo foram emboscados. A emboscada foi brutal, silenciosa e bem planejada. Cercado por inimigos em número avassalador, não teve chance de escapar. Lutou com tudo o que tinha — não por vitória, mas por sobrevivência. E ali, naquele campo esquecido, encontrou seu fim.
+
+
+“ É dito que todo humano possui uma “Queres” consigo, como lembrete da inevitável morte, e com nosso protagonista não é diferente. “
+
+
+Sua morte não teve glória, apesar de sua maestria em combate. As histórias contam que foi surpreendido por um número esmagador de inimigos. Lutou com bravura, mas à medida que a batalha se estendia, sua defesa começava a falhar. A mente, tomada por ilusões, passou a enxergar a figura de uma mulher — uma presença fantasmagórica que se tornava cada vez mais nítida conforme ele se feria. Sua visão turvava, seus movimentos tornavam-se lentos, e o medo da morte o consumia.
+A cada inimigo abatido, dois outros surgiam. Quando um corpo caía sob sua lâmina, vultos femininos grotescos cobriam os cadáveres. O protagonista parecia ser o único capaz de vê-los — e isso o aterrorizava.
+A luta se prolongou até que a exaustão o dominou. Cercado, foi dilacerado por seus inimigos. Nos últimos instantes, a sombra tomou forma. Mas não era grotesca — era lírica. Uma bela dama envolta em véus brancos, com longos cabelos negros como a noite e olhos escarlates que brilhavam intensamente. Embora ele nunca a tivesse visto antes, ela parecia conhecê-lo profundamente. Seu semblante era triste, como quem lamenta uma perda irreparável. 
+ “ O papel principal das Queres é reivindicar as almas daqueles que encontram um fim violento, um dever que cumprem com uma eficiência assustadora.
+  Eles não se deixam levar por súplicas ou oferendas, nem se deleitam com sua tarefa sombria. São a personificação da morte violenta, um papel que encarnam com uma postura fria e inflexível. “
+
+
+— Então por que aquela mulher parecia diferente?
+
+
+Poder/Poderes:
+(desenvolver)
+Benção de Ker.
+
+
+Mitologia - Resumo
+Ajudantes:Ker (Queres)
+  
+  
+  
+
+
+
+As CERÉS eram espíritos femininos ( daimones ) da morte violenta ou cruel, incluindo morte em batalha, por acidente, assassinato ou doença devastadora. Outro espírito, Tânatos , era o deus da morte não violenta. (Theoi)
+
+
+Queres, sendo filhas de Nix, nasceram em uma natureza sombria. Um fato interessante é que elas próprias não podiam infligir a morte aos humanos. Elas se deliciavam com os corpos de suas vítimas após encontrarem seus terríveis fins no campo de batalha. (Olympioi)
+
+
+As Keres eram espíritos femininos originadas de Nix, a deusa da noite. Alguns atribui-lhes a paternidade de Erebus, outros defendem que elas foram geradas sem a união com outro deus. As Queres simbolizam o destino cruel, fatal e impossível de escapar e elas seriam aquelas que traziam a morte violenta aos mortais. Cada uma das Keres correspondia a um tipo específico de morte violenta, chamadas pelos romanos de Tênebras ou Trevas. (Eventos Mitologia Grega Blog)
+
+
+Características Físicas:
+
+
+As Keres eram verdadeiros monstros alados de cor negra, dentes pontiagudos e longas unhas que usavam para ferir ou despedaçar os cadáveres. (Eventos Mitologia Grega Blog)
+
+
+As Keres são frequentemente retratadas como mulheres de asas escuras, às vezes com o rosto de uma ave de rapina, descendo sobre as almas dos caídos com um comportamento arrepiante e distante.
+
+
+Sua aparência é um lembrete severo de seu dever cruel, com asas escuras que bloqueiam o sol enquanto descem sobre o campo de batalha. Os Keres são frequentemente retratados com garras ou outros apêndices semelhantes a garras, prontos para arrebatar as almas daqueles que encontram um fim violento. Seu semblante não é cruel nem compassivo; é a face fria e implacável da morte, desprovida de emoção ou misericórdia. (Olympioi)
+
+
+As Keres eram retratadas como mulheres com presas e garras, vestidas com vestes ensanguentadas. (Theoi)
+
+
+Poder/Poderes:
+
+
+As Keres eram irmãs de Thanatos - a personificação da morte, Moro - o escárnio e o quinhão que cada homem receberá em vida e o destino e Átropos - uma das Moiras. Juntos determinavam o fim da vida. Enquanto seus irmãos promoviam a morte tranquila, as Keres rondavam os campos de batalha, portanto tinham por missão trazer a morte cruel antes do tempo.
+
+
+Quando o sanguinário deus Ares partia para grandes guerras, convocava as Keres para fazer parte de seu cortejo. À frente iam os filhos de Ares, Deimos - o espanto e Phobos - o terror. Após a batalha, as Keres devoravam os mortos e levavam as almas ao Hades. Presentes nos campos de batalha ou nos momentos de grande violência, como assassinatos, acidentes e devastações coletivas, aos que sobreviviam a elas, restava-lhes uma visão de sua horrível presença. A Ilíada afirma que cada ser humano possui uma Ker consigo, que personifica sua própria morte. (Eventos Mitologia Grega Blog)
+
+
+O papel principal dos Keres é reivindicar as almas daqueles que encontram um fim violento, um dever que cumprem com uma eficiência assustadora. Eles não se deixam levar por súplicas ou oferendas, nem se deleitam com sua tarefa sombria. São a personificação da morte violenta, um papel que encarnam com uma postura fria e inflexível.
+
+
+Os antigos gregos acreditavam que os Keres não podiam ser influenciados ou dissuadidos de seu dever. Seu poder sobre a morte era absoluto, fato refletido na eficiência arrepiante com que reivindicavam as almas dos caídos. Os poderes dos Keres não são chamativos nem extravagantes; são sombrios, inflexíveis, um lembrete severo do fim inevitável que aguarda todos os mortais.
+
+
+As responsabilidades dos Keres vão além do campo de batalha. Eles são um lembrete do fim inevitável que aguarda todos os mortais, um lembrete de que a morte pode chegar rapidamente e sem aviso. O papel dos Keres na mitologia grega é um reflexo da compreensão e aceitação da morte pelos antigos gregos como uma parte natural e inevitável da vida. (Olympioi)
+
+
+2 contos que irão inspirar a história:
+
+
+Elas seriam um dos maus espíritos liberados da caixa de Pandora. Ora tratadas como várias divindades e ora tratada apenas como uma única divindade que tinha um valor coletivo, entre as personificações destrutivas estão: Stygere, o ódio - Anaplekte, a morte rápida - Nosos, a doença - Ker, a destruição - Akhlys, a névoa da morte.  (Eventos Mitologia Grega Blog)
+
+
+A batalha de Tróia
+
+
+Uma das menções mais notáveis aos Keres é durante a épica batalha de Troia, onde são descritos como se lançando sobre o campo de batalha, reivindicando as almas dos caídos com uma eficiência assustadora. A imagem dos Keres descendo sobre o campo de batalha é um lembrete contundente do frágil fio da vida que está em jogo em tempos de guerra e conflito.
+
+
+Na Ilíada de Homero, os Keres são frequentemente mencionados, personificando a morte inevitável que paira sobre os guerreiros no campo de batalha. Sua presença é um lembrete constante da frágil fronteira entre a vida e a morte, uma fronteira que pode ser cruzada a qualquer momento no calor da batalha. A expressão "Keres da morte", usada por Homero, resume o pavor e a inevitabilidade associados a essas entidades. Os gregos as viam como forças implacáveis da natureza, inflexíveis em seu dever de reivindicar as almas dos caídos.
+
+
+O papel dos Keres na batalha de Troia não é de malícia ou crueldade, mas de dever. Eles são agentes do destino, cumprindo sua tarefa sombria com uma atitude fria e inflexível. Os antigos gregos viam os Keres com uma mistura de medo e respeito, reconhecendo seu papel no grande plano da vida e da morte.
+
+
+O Conto de Aquiles
+
+
+A história de Aquiles, o poderoso herói grego, também se entrelaça com a tradição dos Keres. Conforme previsto pela profecia, Aquiles estava destinado a morrer jovem. Os Keres, como agentes do destino, desempenharam um papel crucial no cumprimento dessa profecia. Entendida como um lembrete sombrio da natureza inexorável do destino.
+
+
+Na Ilíada, os Keres são retratados como onipresentes no campo de batalha. Sua essência sombria é uma sombra constante sobre os guerreiros, incluindo Aquiles. A narrativa descreve como mesmo os heróis mais poderosos não conseguiram escapar de suas garras quando o destino decidiu que era hora. A imagem dos Keres descendo ao campo de batalha para reivindicar a alma de Aquiles é assombrosa.
+
+
+A história de Aquiles e Keres é uma narrativa poderosa. Ressalta a compreensão e a aceitação da morte pelos gregos antigos como parte natural e inevitável da vida. É uma narrativa que ressoa através do tempo, um lembrete da natureza inexorável do destino e do frágil fio da vida que está em jogo. (Olympioi)
+
+
+Momento em que aparece no jogo:
+Irá aparecer no jogo logo no epílogo! Irá ajudar o player caso ele se mantenha no caminho desejado pela Ker. Caso o player se torne maldoso ou bondoso, Ker poderá abandoná-lo, não aceitando o seu perdão! Lembre-se, a Ker é onipresente e vive dentro de você!
+Nêmesis
+Características Físicas:
+      Nas representações visuais, a deusa costuma ter asas. Além disso, carrega uma espada (a justiça) e uma ampulheta. O aparato de medir o tempo serve para lembrar que ainda que a justiça se atrase, ela nunca falha. Dessa maneira, a figura costuma estar diretamente ligada ao conceito de karma. A deusa também era famosa por sua beleza. Portanto, acabou sendo comparada a Afrodite e, naturalmente, chamando a atenção de Zeus. (R7) Nêmesis era frequentemente retratada como uma deusa alada. Seus atributos eram ramo de macieira, rédea, chicote, espada ou equilíbrio. (Theoi)
+
+
+Poder/Poderes:
+Nêmesis é considerada a divindade da retribuição aos atos praticados, seja para estabelecer punições aos maus atos ou para conceder os favores resultantes das ações benéficas. Ela é a força que assegura que nenhum indivíduo ou deus tenha sucesso ou felicidade excessivos que se manifestem através do orgulho, especialmente se forem obtidos de maneira injusta, representa a imposição aos mortais e aos deuses das consequências de transgredir os limites morais e éticos. Ela ocupa uma situação muito especial, pois é independente e não está submetida a nenhuma hierarquia divina, impondo respeito, autoridade e até temor sobre os poderosos e conflituosos olímpicos. (História Blog)
+
+
+Nêmesis era a personificação do ciúme, da inveja e da ira dos deuses e acreditava-se que punia a gula humana. Ela preservava e supervisionava a ordem e mantinha o equilíbrio do universo. Era ela quem pesava rigorosamente a felicidade e o infortúnio, às vezes aparecendo acompanhada de uma balança. Para Homero, Nêmesis era a justiça divina, aquela que concedia bênçãos e maldições em medidas perfeitamente iguais. Na Roma Imperial, a deusa era adorada por gladiadores, e muitos de seus templos foram encontrados nas proximidades de anfiteatros. (Rciusa)
+2 contos que irão inspirar a história:
+Narciso
+
+
+Assim que deu à luz, na Beócia, a mãe de Narciso visitou um adivinho. Impressionada com a beleza da criança, ela queria saber se ele viveria por muito tempo. De acordo com o adivinho, Narciso viveria muito, mas não poderia conhecer a si mesmo. Isso porque, segundo a profecia, ele seria vítima de uma maldição fatal.
+
+
+Já adulto, Narciso chamava a atenção de todos ao seu redor, graças à beleza acima da média. Entretanto, também era extremamente arrogante. Assim, passou a vida sozinho, pois não julgava que nenhuma mulher era digna de seu amor e de sua companhia.
+
+
+Certo dia, enquanto caçava, chamou atenção da ninfa Eco. Ela ficou completamente apaixonada, mas foi recusada, como todas as outras. Revoltada, então, decidiu pedir ajuda à deusa da vingança, Nêmesis. Dessa maneira, a deusa lançou a maldição que dizia: “Que Narciso se apaixone com muita intensidade, mas não consiga possuir a sua amada”.
+
+Como resultado da maldição, Narciso eventualmente conseguiu se apaixonar, mas pela própria imagem.
+
+
+Enquanto seguia o caçador, em uma de suas aventuras, Eco conseguiu atrair Narciso até uma fonte d’água. Ali, ele decidiu beber água e acabou se deparando com o próprio reflexo no lago.
+
+
+Assim, ficou completamente hipnotizado pela sua imagem. No entanto, como não sabia que se tratava de um reflexo, tentou possuir o desejo da sua paixão.
+
+
+Segundo alguns autores, o rapaz tentou agarrar seu reflexo, caiu na água e morreu afogado. Por outro lado, a versão de Partênio de Niceia diz que ele teria cometido suicídio por não conseguir se aproximar da imagem do amado. (R7)
+
+
+Persas x Atenienses
+
+
+Nêmesis era adorada, como evidenciado pela construção de sua estátua em Ramno. Esta estátua em particular representa a vitória ateniense contra o exército persa. Os atenienses acreditavam que os persas, que arrogantemente acreditavam que poderiam esmagar o inimigo, haviam recebido a visita de Nêmesis, resultando em sua derrota. (EBSCO)
+
+
+Em Ramnunte, pequena cidade da Ática não muito longe de Maratona situada na costa do estreito que separa a Ática da Ilha de Eubeia, Nêmesis tinha um santuário célebre, o qual ao mesmo tempo era um templo de Têmis. As estátuas das duas deusas foram esculpidas juntas por Fídias (as mais belas estátuas de Têmis e de Nêmesis) em um bloco de mármore de Paros trazido pelos persas e destinado a fazer um troféu. Segundo a antiga religião grega, os persas tinham-se mostrado demasiado seguros da vitória denotando desmesura (húbris), e nunca tomaram Atenas, em favor da qual Nêmesis tomou partido. Nêmesis encorajou o exército ateniense de Maratona. (Wikipedia)
+
+
+Momento em que aparece no jogo:
+Irá aparecer no jogo quando o player estiver com o alinhamento de Bondoso! Irá ajudar o player caso ele se mantenha bondoso e justo. Caso o player se torne maldoso ou bondoso ao extremo, Nêmesis poderá puni-lo, assim como fez com Narciso e os Persas.
+Apollo
+APOLLON (Apolo) era o deus olímpico da profecia e dos oráculos, da música, do canto e da poesia, do arco e flecha, da cura, da peste e da doença, e da proteção dos jovens. (Theoi)
+
+
+Apolo era um deus que estava presente no panteão de deuses dos gregos antigos. Era considerado o deus do Sol e o deus patrono da luz, da música, da medicina, das artes, da profecia etc. Era um dos deuses mais relevantes da religião grega e era considerado um grande representante das artes, da beleza e da juventude. 
+
+Apolo participou da Guerra de Troia e defendeu os troianos nesse conflito. (Mundo Educação - UOL)
+
+
+Características Físicas:
+Ele era retratado como um jovem bonito e imberbe, com cabelos longos e atributos como uma coroa e um ramo de louro, um arco e uma aljava de flechas, um corvo e uma lira. (Theoi)
+
+
+A representação mais comum de Apolo é de um homem nu, jovem, bonito e brilhante, na qual remete a ideia de ele que fosse a própria luz do Sol. Seus objetos tradicionais são o arco de prata, a lira, o ramo de louro e o corvo, animal muito ligado a seu culto. (Toda Matéria)
+
+
+Poder/Poderes:
+A Apolo também era creditada a responsabilidade pelas pragas e por pessoas que morriam subitamente. Assim, se uma pessoa adoecia subitamente, ou se uma epidemia espalhava-se, acreditava-se que Apolo teria lançado uma flecha com a praga. Na Ilíada, de Homero, por exemplo, conta-se que Apolo foi o responsável por levar pragas contra os soldados gregos. (Mundo Educação - UOL)
+
+
+
+
+Contos que irão inspirar a história:
+Nascimento de Apolo:
+
+Segundo a mitologia grega, Apolo era filho de Zeus com Leto, uma titânide, filha de Febe e Céos. Leto engravidou de Zeus e deu à luz Apolo e Ártemis na ilha flutuante de Delos. Isso aconteceu, porque Hera tinha ciúmes de Zeus e, enfurecida, Hera proibiu que a Mãe-Terra, Gaia, permitisse que Leto tivesse seus filhos na Terra.
+
+
+Para socorrer Leto, o deus Poseidon decidiu criar uma ilha flutuante chamada Delos. Como a ilha não estava presa ao solo, Gaia nada podia fazer e lá Leto deu à luz seus dois filhos. Após seu nascimento, Apolo bebeu um néctar dos deuses e comeu ambrosia e depois disso Apolo deixou de ser um bebê e tornou-se um homem adulto.
+
+
+Além dessa proibição, Hera também enviou a serpente Píton para que perseguisse Leto. Apolo, um exímio manejador de arco e flecha foi o responsável por matar a serpente Píton. Ele encontrou a serpente próximo ao Monte Parnaso e a matou com três flechas: uma no olho, outra no peito e outra na boca.
+
+
+A vitória de Apolo sobre a Píton rendeu-lhe fama e reconhecimento. A população de Delfos, local próximo ao Monte Parnaso, ficou grata por Apolo ter matado a serpente e, em homenagem ao feito, decidiu construir um templo: o Oráculo de Delfos. Lá as pessoas que veneravam Apolo iam prestar-lhe culto e obter profecias sobre o futuro. (Brasil Escola)
+
+
+Amores frustrados de Apolo:
+
+
+Apolo ficou conhecido por inúmeros amantes, tanto homens quanto mulheres, mas as histórias mais conhecidas são as de seus amores frustrados. Uma dessas histórias envolve a ninfa Dafne. Tudo começou quando Apolo zombou das habilidades de Eros, deus do amor, quando este manejava um arco e flecha. Apolo estava envaidecido, pois tinha matado Píton há pouco.
+
+
+Eros vingou-se fazendo com que Apolo se apaixonasse por uma mulher que não o queria. Para que isso acontecesse, Eros lançou uma flecha de ouro que fez Apolo se apaixonar perdidamente por Dafne. Em seguida, ele lançou uma flecha de chumbo em Dafne, o que fez com que ela tivesse aversão a todos que se apaixonassem por ela.
+
+
+Quanto mais Apolo manifestava suas intenções para Dafne, mais ela o desprezava. Essa história terminou quando Apolo decidiu perseguir Dafne por um bosque. Aterrorizada e cansada de Apolo, Dafne pediu que seu pai, Peneu, a convertesse em outro ser e ela tomou a forma de um loureiro.
+
+
+Outra história envolve Jacinto, um mortal. Apolo passava muito tempo com Jacinto, e certo dia os dois praticavam lançamento de disco quando uma tragédia aconteceu. Zéfiro, deus do vento oeste, também era apaixonado por Jacinto e, enciumado da relação dele com Apolo, Zéfiro interferiu no disco lançado pelo deus do Sol, fazendo com que o disco fosse contra a cabeça de Jacinto, causando um acidente fatal.
+
+
+Outra história frustrada envolve Corônis, uma mulher por quem Apolo se apaixonou. Ela tornou-se amante de Apolo, mas acabou apaixonando-se por Ischys e traindo Apolo com esse homem. Um corvo teria contado a Apolo sobre a traição, e a raiva de Apolo foi tamanha que ele puniu seu mensageiro. Corônis foi morta por Ártemis, e Ischys foi morto pelo próprio Apolo. (Mundo Educação - UOL)
+
+
+Desavenças com Zeus
+
+
+Apolo era um deus de personalidade forte e, em um certo momento, foi severamente punido por Zeus. Em certa ocasião, Asclépio, um dos filhos de Apolo e um exímio médico, conseguiu trazer um paciente de volta à vida. O acontecimento enfureceu Hades, o deus do mundo dos mortos. Zeus mediou a situação e decidiu punir Asclépio matando-o com um raio.
+
+
+Apolo ficou furioso com a morte de seu filho e decidiu se vingar de seu pai. Ele matou os três ciclopes que tinham feito o raio de Zeus: Arges, Brontes e Estérope. Zeus enfureceu-se com Apolo e o puniu condenando-o a viver como homem por um ano na região da Tessália. (Brasil Escola)
+
+
+História de Apolo
+
+
+Filho de Zeus e Leto, Apolo nasceu na ilha de Delos, quando sua mãe se escondia da esposa de Zeus, Hera.
+
+
+Era irmão gêmeo de Ártemis, a deusa da caça e dos animais selvagens. Além disso, Apolo era irmão de Hermes, Hefesto, Ares e Atena.
+
+
+Um ano após seu nascimento, Apolo foi a Delfos, onde matou Píton, uma criatura temida que servia de guardiã do antigo oráculo de Têmis, filha de Gaia. Para se redimir com Gaia pela morte de Píton, Apolo teria criado os Jogos Píticos, um dos eventos celebrados na Grécia a cada quatro anos, assim como as Olimpíadas.
+
+
+Assim que nasceu, ele foi alimentado com néctar dos deuses e ambrosia. O alimento o transformou diretamente de bebê para homem. Com apenas um ano de idade, ele derrotou a serpente píton, que tentava atacar sua mãe.
+
+
+Auxiliou os troianos na Guerra de Troia, salvando em mais de uma ocasião os guerreiros Eneias, Glauco e Hector.
+
+
+Além disso, enviou uma praga mortífera contra o exército grego, pois Agamenon, líder dessas tropas, havia sequestrado a filha de um importante sacerdote de Apolo. Também por seu intermédio, Paris conseguiu acertar com uma flecha o calcanhar de Aquiles, resultando em sua derrota.
+
+
+Em sua homenagem, coroas de louros foram jogadas aos seus pés. O louro é, ainda hoje, a representação do triunfo nos jogos olímpicos. (Toda Matéria)
+
+
+
+
+Momento em que aparece no jogo:
+Epílogo do jogo! Momento em que o player escolhe seu alinhamento!
+
+
+Hemera[l]
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+Chefes
+
+
+Éris
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+As Hespérides
+Características Físicas:
+  
+
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Lissa
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Geras
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Hipnos
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Tânato
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+Nix
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Side Quests:
+Os Oniros
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Momo
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+Procusto
+Link da história: https://historiablog.org/2024/03/29/procusto-um-serial-killer-sinistro-na-mitologia-grega/ 
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+As Moiras
+Link da história: https://historiablog.org/2024/09/04/as-moiras-e-o-fio-do-destino-na-mitologia-grega/ 
+Características Físicas:
+Poder/Poderes:
+2 contos que irão inspirar a história:
+Momento em que aparece no jogo:
+
+
+ARTÍSTICO
+Representação de alinhamento:
+    
+Representação ocular:
+  
+
+(Importa para setar personagens e caracterizar suas personalidades)
+  
+
+[a]pesquisar sobre deuses gregos mais Justos / Neutros
+[b]Deusa da distribuição da justiça do equilíbrio e vingança divina(esperasse reforço no alinhamento justo)
+[c]Deusa do dia
+[d]Deusa da discordia
+[e]Deus q representa a velhice
+[f]Deusa da ira, raiva
+[g]Deusas do entardecer, 3 deusas
+[h]Deus da morte
+[i]Deus do sono( antecede a Nix)
+[j]Deusa da noite(boss final)
+[k]Deusa do sarcasmo.
+[l]Éter cônjuge
