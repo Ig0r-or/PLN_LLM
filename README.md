@@ -399,4 +399,9 @@ Zoryel/
 
 ---
 
+## 12. Contribuições:
+
+Grupo Amigos e Fortunados de Joaz Rodrigues: Cezar Vitor, Guilherme Gomes, Nicollas Henrique, Igor Gabriel, 
+Robinho, Joaz Rodrigues, Rafael Ratão, Renan, Rodrigo Marques. 
+
 **Ideia central:** o projeto conecta fundamentos clássicos do PLN a uma aplicação moderna de recuperação aumentada por geração. BoW e TF-IDF mostram como representar textos por frequências; embeddings permitem recuperar conteúdos por proximidade semântica; FAISS localiza os trechos; e o LLM formula uma resposta a partir do contexto recuperado.
